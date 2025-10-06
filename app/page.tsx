@@ -44,8 +44,9 @@ export default function Home() {
           </li>
           <li className={css.step}>
             {lang.value === "uz"
-              ? `Hech qanday muammosiz kredit oling!`
-              : "Получите кредит без лишних хлопот!"}
+              ? `Premium xususiyatlardan bepul foydalaning!
+`
+              : "Пользуйтесь премиум функциями бесплатно!"}
           </li>
         </ol>
 
