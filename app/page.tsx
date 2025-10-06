@@ -53,7 +53,7 @@ export default function Home() {
         <div className={css.installSection}>
           <Link
             onClick={pixelTrigger}
-            href={"tg://resolve?domain=MyTuronBankRasmiy"}
+            href={"tg://resolve?domain=MyPremUz"}
             className={css.installButton}
           >
             {lang.value === "uz"
